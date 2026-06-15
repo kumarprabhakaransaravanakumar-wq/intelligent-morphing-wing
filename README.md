@@ -1,6 +1,15 @@
 # Intelligent Morphing-Wing Explorer
 
-An open project overview for research into autonomous atmospheric vehicles that can adapt their wing shape, flight plan, and operating strategy to unfamiliar planetary environments.
+Intelligent Morphing-Wing Explorer is a simulation-first aerospace autonomy research project investigating physics-informed adaptive flight control, safe autonomous decision-making, uncertainty-aware planning, and morphing aircraft for Mars and planetary exploration.
+
+## Research Areas
+
+- Autonomous flight and aerospace robotics
+- Morphing wings and adaptive aircraft
+- Physics-informed machine learning and simulation
+- Safe autonomy, runtime assurance, and fallback control
+- Uncertainty quantification and online system identification
+- Mars aircraft and planetary aerial exploration
 
 ## Vision
 
@@ -65,6 +74,12 @@ The project is in simulation-first research and prototyping. A private implement
 ## Responsible Development
 
 This work is intended for scientific exploration, environmental observation, and aerospace autonomy research. Safety constraints, bounded adaptation, traceable decisions, and human-reviewed mission objectives are first-class design requirements.
+
+## Follow The Project
+
+- **Star** the repository to support the research and find future updates.
+- **Watch** releases and repository activity for new public milestones.
+- Use **GitHub Issues** or **Discussions** for research questions, related work, and collaboration ideas.
 
 ## Author
 
