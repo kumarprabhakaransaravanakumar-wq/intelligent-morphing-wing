@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using these metadata."
+title: "Intelligent Morphing-Wing Explorer: Physics-Informed Autonomy for Morphing Aircraft"
+type: software
+authors:
+  - name: "Kumar Prabhakaran Saravanakumar"
+repository-code: "https://github.com/kumarprabhakaransaravanakumar-wq/intelligent-morphing-wing"
+url: "https://github.com/kumarprabhakaransaravanakumar-wq/intelligent-morphing-wing"
+license: MIT
+date-released: "2026-10-08"
+abstract: >-
+  Aerospace autonomy research on morphing-wing aircraft for Mars and planetary
+  exploration. An opportunity optimizer selects wing geometry and trajectory
+  using physics-informed prediction with learned corrections, while an
+  independent risk harness and fallback controller retain safety authority.
+  The project progresses from simulation to a real-world morphing-wing flight
+  demonstrator to measure the sim-to-real gap.
+keywords:
+  - morphing wing
+  - morphing aircraft
+  - Mars aircraft
+  - planetary exploration
+  - model predictive control
+  - physics-informed machine learning
+  - uncertainty quantification
+  - runtime assurance
+  - safe autonomy
+  - sim-to-real
+  - system identification
+  - UAV

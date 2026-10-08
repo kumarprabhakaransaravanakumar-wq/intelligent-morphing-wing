@@ -57,6 +57,10 @@ A single end-to-end learning policy would combine perception, modeling, planning
 - When should it avoid weather, climb, land and shelter, or resume flight?
 - How can useful online learning be retained without allowing unsafe self-modification?
 
+## Sim-to-Real Path
+
+The staged path from simulation to a real morphing-wing flight demonstrator, including the in-flight authority chain, is described in [sim-to-real-roadmap.md](sim-to-real-roadmap.md).
+
 ## Publication Boundary
 
 This document omits implementation code, model dimensions, numerical constraints, vehicle performance values, optimization settings, detailed test scenarios, and mission-specific data. Those details require further validation before selective publication.
